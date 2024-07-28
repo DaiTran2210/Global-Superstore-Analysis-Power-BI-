@@ -27,8 +27,20 @@ Dashborad should be:
 ![image](https://user-images.githubusercontent.com/101726623/235493257-a4fff02c-da02-4e4c-87bf-62b454905e67.png)
 
 ## III. Visualization
-![image](https://github.com/user-attachments/assets/77e84110-538a-48d6-8293-4ea7dcaeef20)
-![image](https://github.com/user-attachments/assets/50032c51-4108-486a-9406-de36824fdce3)
+### 1. Overview
+![image](https://github.com/user-attachments/assets/d895ae0c-ed60-44f7-8648-40b62ebbb424)
+
+
+### 2. Customers
+![image](https://github.com/user-attachments/assets/68ff4fb7-9e02-42f4-a6e6-4f370922b2ed)
+
+
+### 3. Products
+![image](https://github.com/user-attachments/assets/840e49e7-4651-49cd-8466-29829b2ef9ba)
+
+
+### 4. Profit
+![image](https://github.com/user-attachments/assets/1de30c68-1f39-4555-a975-737297524a39)
 
 
 ## IV. Insights
