@@ -28,19 +28,23 @@ Dashborad should be:
 
 ## III. Visualization
 ### 1. Overview
-![image](https://github.com/user-attachments/assets/d895ae0c-ed60-44f7-8648-40b62ebbb424)
+![image](https://github.com/user-attachments/assets/7906f8bc-0a49-4d18-a8d9-e2244323095c)
+
 
 
 ### 2. Customers
-![image](https://github.com/user-attachments/assets/68ff4fb7-9e02-42f4-a6e6-4f370922b2ed)
+![image](https://github.com/user-attachments/assets/22b32901-3848-4362-9259-f8c3863d262c)
+
 
 
 ### 3. Products
-![image](https://github.com/user-attachments/assets/840e49e7-4651-49cd-8466-29829b2ef9ba)
+![image](https://github.com/user-attachments/assets/7dd7ac5b-62a7-40ba-9f62-0fb84b76dc46)
+
 
 
 ### 4. Profit
-![image](https://github.com/user-attachments/assets/1de30c68-1f39-4555-a975-737297524a39)
+![image](https://github.com/user-attachments/assets/5e3e6741-f879-4fd2-bc0c-bea450e7aafe)
+
 
 
 ## IV. Insights
@@ -48,18 +52,37 @@ Dashborad should be:
 
 2. Popular customers are "Consumer" and "Corporate" accounted for a total of : ~ **82%**.
 
-3. Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
+3. Standard class is common shipping method.
 
-4. Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA and AVG, the size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
+4. United state is the country with the largest number of orders.
 
-5. Our popular customers by Region are : Central EU, EMEA, Africa, OCEANIA APAC, WEST US.
+5. Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
 
-6. **Office Supplies** is the category mainly ordered by customers.
+6. Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA and AVG, the size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
 
-7. According to profit,
+7. Our popular customers by Region are : Central EU, EMEA, Africa, OCEANIA APAC, WEST US.
+
+8. **Office Supplies** is the category mainly ordered by customers.
+
+9. According to profit,
 * Technology is the most profitable category.
 * Consumer is the most profitable segment.
 → **APAC** is the market where we have the highest profit ~ 0.44M and **Central EU** is the Market region with the highest profit.
 
+
+## V. Recommendations
+**Market expansion strategy and key products**
+
+1, If we have large capital, we can focus on developing **APAC, US, EU, LATAM** regions, more specifically Market regions: **Central + North EU, APAC, West + East US, North LATAM**.
+* Note: the APAC market needs the most focus.
+* The main category is: Technology + office supplies.
+* Main sub-category are: Binders, Storage, Art, Paper, Chairs, Phones and Accessories. 
+* Segment to be targeted is: Consumer + Corporate.
+
+2, If we have limited capital, we need to pay attention to the ROS index, now there are 2 markets that need to spend a little capital but bring high profits: **Canada and Africa**.
+* Note: the Canadian market needs the most focus.
+* Main products are: Technology + office supplies.
+* Main sub-category are: Art, Binders, Storge. 
+* Segment to be targeted is: Consumer + Corporate + Home office.
 
 
