@@ -5,10 +5,9 @@ Global Superstore has 3 datasets:
 - People: table stores information of sellers in each region
 - Returns: table records returned transactions
 ### II. Business Questions
-Senior manager wants to grasp information about the company's business situation to develop a market expansion strategy and decide on choosing strategic products.
-Dashborad should be:
-- Presenting business situation in international markets to Senior Manager.
-- Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
+the senior manager needs the lowdown on the company’s business to figure out how to expand into new markets and pick the right products. The dashboard should:
+- Show the business situation in international markets in a way that's easy for the senior manager to understand.
+- Highlight key indicators to help decide which markets to grow in and which products fit each market best.
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
 ### Step 1 - Empathize
@@ -50,39 +49,56 @@ Dashborad should be:
 ## IV. Insights
 1. Our top 5 biggest markets are: **APAC, LATAM, EU, US, EMEA**.
 
-2. Popular customers are "Consumer" and "Corporate" accounted for a total of : ~ **82%**.
+2. "Consumer" and "Corporate" customers make up about **82%** of our total.
 
-3. Standard class is common shipping method.
+3. Standard class is our go-to shipping method.
 
-4. United state is the country with the largest number of orders.
+4. The US has the largest number of orders.
 
-5. Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
+5. Profit and sales peak at the end of the year **(Q4)** and hit a low at the start of the year **(Q1)**.
 
-6. Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA and AVG, the size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
+6. By market, our popular customers are: APAC, LATAM, EU, US, EMEA, with cart sizes ranking as APAC > EU > US > LATAM > AFRICA.
 
-7. Our popular customers by Region are : Central EU, EMEA, Africa, OCEANIA APAC, WEST US.
+7. By region, our popular customers are in: Central EU, EMEA, Africa, Oceania APAC, and West US.
 
-8. **Office Supplies** is the category mainly ordered by customers.
+8. **Office Supplies** is the top category ordered by customers.
 
-9. According to profit,
-* Technology is the most profitable category.
-* Consumer is the most profitable segment.
-→ **APAC** is the market where we have the highest profit ~ 0.44M and **Central EU** is the Market region with the highest profit.
+
+9. Profit-wise:
+
+- **Technology** is the most profitable category.
+
+- **Consumer** is the most profitable segment.
+
+- **APAC** has the highest profit at around 0.44M.
+
+- **Central EU** is the top market region for profit.
 
 
 ## V. Recommendations
 **Market expansion strategy and key products**
 
-1, If we have large capital, we can focus on developing **APAC, US, EU, LATAM** regions, more specifically Market regions: **Central + North EU, APAC, West + East US, North LATAM**.
-* Note: the APAC market needs the most focus.
-* The main category is: Technology + office supplies.
-* Main sub-category are: Binders, Storage, Art, Paper, Chairs, Phones and Accessories. 
-* Segment to be targeted is: Consumer + Corporate.
+1. If we have large capital:
 
-2, If we have limited capital, we need to pay attention to the ROS index, now there are 2 markets that need to spend a little capital but bring high profits: **Canada and Africa**.
-* Note: the Canadian market needs the most focus.
-* Main products are: Technology + office supplies.
-* Main sub-category are: Art, Binders, Storge. 
-* Segment to be targeted is: Consumer + Corporate + Home office.
+- Focus on expanding in **APAC, US, EU, LATAM** regions, especially **Central + North EU, APAC, West + East US, North LATAM**.
+
+- **APAC market** needs the most attention.
+
+- Main categories: Technology + Office Supplies.
+
+- Main sub-categories: Binders, Storage, Art, Paper, Chairs, Phones, and Accessories.
+
+- Target segments: Consumer + Corporate.
+
+2. If we have limited capital:
+
+- Pay attention to the ROS index. Two high-profit markets with low capital investment are **Canada and Africa**.
+- **Canada** needs the most focus.
+
+- Main products: Technology + Office Supplies.
+
+- Main sub-categories: Art, Binders, Storage.
+
+- Target segments: Consumer + Corporate + Home Office.
 
 
