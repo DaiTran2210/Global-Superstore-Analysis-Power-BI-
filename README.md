@@ -27,22 +27,26 @@ the senior manager needs the lowdown on the company’s business to figure out h
 
 ## III. Visualization
 ### 1. Overview
-![image](https://github.com/user-attachments/assets/7906f8bc-0a49-4d18-a8d9-e2244323095c)
+![image](https://github.com/user-attachments/assets/13cfb2a1-4637-4186-bbba-dce74bac45f9)
+
 
 
 
 ### 2. Customers
-![image](https://github.com/user-attachments/assets/22b32901-3848-4362-9259-f8c3863d262c)
+![image](https://github.com/user-attachments/assets/28c51b40-89a1-45fa-bbe9-391e921dc199)
+
 
 
 
 ### 3. Products
-![image](https://github.com/user-attachments/assets/7dd7ac5b-62a7-40ba-9f62-0fb84b76dc46)
+![image](https://github.com/user-attachments/assets/f6af88a6-b982-43b8-9438-5ae42fe1a7d1)
+
 
 
 
 ### 4. Profit
-![image](https://github.com/user-attachments/assets/5e3e6741-f879-4fd2-bc0c-bea450e7aafe)
+![image](https://github.com/user-attachments/assets/9a26a32d-13fe-45da-ad9c-462c04a40613)
+
 
 
 
